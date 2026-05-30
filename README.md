@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, I'm Dhruv Patel
 
 # 💫 About Me:
 I am a Pre-Final Year Student at SVNIT Surat<br>I am currently working on AI-ML Projects<br>I am currently learning Quantitative Finance<br>
